@@ -1,0 +1,13 @@
+.myButton{
+    background-color: red;
+}
+
+.resizable-image {
+    width: 100px;
+    height: auto;
+    padding: 0.5rem;
+}
+
+a{
+    text-decoration: none;
+}
